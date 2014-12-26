@@ -1,0 +1,12 @@
+{
+  "name": "basic-element",
+  "repository": "git@github.com:CKUpdate/basic-element.git",
+  "version": "0.0.1",
+  "dependencies": {
+    "polymer": "CKUpdate/polymer#master"
+  },
+  "keywords": [
+    "web-components",
+    "flatten"
+  ]
+}
