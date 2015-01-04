@@ -3,7 +3,7 @@
   "repository": "git@github.com:CKUpdate/basic-element.git",
   "version": "0.0.1",
   "dependencies": {
-    "polymer": "CKUpdate/polymer#master"
+    "polymer": "CKUpdate/polymer#0.5.2000"
   },
   "keywords": [
     "web-components",
