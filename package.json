@@ -1,7 +1,7 @@
 {
   "name": "basic-element",
   "repository": "git@github.com:CKUpdate/basic-element.git",
-  "version": "0.0.1",
+  "version": "0.0.1000",
   "dependencies": {
     "polymer": "CKUpdate/polymer#0.5.2000"
   },

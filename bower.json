@@ -1,11 +1,11 @@
 {
   "name": "basic-element",
   "description": "Base class for some elements in the Basic Web Components collection",
-  "version": "0.0.1",
+  "version": "0.0.1000",
   "license": "MIT",
   "main": "basic-element.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#master"
+    "polymer": "CKUpdate/polymer#0.0.2000"
   },
   "keywords": [
     "basic-web-components",
